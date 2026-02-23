@@ -1,6 +1,12 @@
 ---
 name: minions-scaffolds
-description: Project scaffolding templates, tech stack configs, and initial file sets
+id: OC-0155
+version: 1.0.0
+description: "Project scaffolding templates, tech stack configs, and initial file sets"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-scaffolds — Agent Skills
