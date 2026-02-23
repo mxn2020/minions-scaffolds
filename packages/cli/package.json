@@ -1,6 +1,6 @@
 {
   "name": "@minions-scaffolds/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-scaffolds — Project scaffolding templates, tech stack configs, and initial file sets",
   "license": "MIT",
   "repository": {
