@@ -1,0 +1,8 @@
+name: "@minions-scaffolds/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-scaffolds-workspace
+description: "CLI for minions-scaffolds — Project scaffolding templates, tech stack configs, and initial file sets"
+priority: high
+deploy_url: null
+tags: null

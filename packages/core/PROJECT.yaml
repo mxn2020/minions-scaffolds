@@ -1,0 +1,8 @@
+name: "@minions-scaffolds/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-scaffolds-workspace
+description: "Project scaffolding templates, tech stack configs, and initial file sets"
+priority: high
+deploy_url: null
+tags: null

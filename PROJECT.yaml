@@ -1,0 +1,15 @@
+name: minions-scaffolds-workspace
+project_scope: main
+project_type: monorepo
+description: "Project scaffolding templates, tech stack configs, and initial file sets"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-scaffolds"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, scaffolds]
+notes: null
+id: 7ae83984-a178-4882-83a6-85ef9c500ad5
