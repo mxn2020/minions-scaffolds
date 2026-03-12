@@ -1,6 +1,6 @@
 {
   "name": "@minions-scaffolds/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Project scaffolding templates, tech stack configs, and initial file sets",
   "type": "module",
   "main": "./dist/index.js",
